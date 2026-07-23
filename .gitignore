@@ -13,6 +13,9 @@
 *.gcno
 *.gcov
 
+*.vcxproj
+*.vcxproj.*
+
 /zconf.h
 /Makefile
 /example
